@@ -48,7 +48,7 @@ La proposition de loi constitutionnelle a pour objectif de diversifier les indic
 
 Monsieur Montaugé a en effet été à l’origine d’un projet de loi visant à instituer un Conseil parlementaire d’évaluation des politiques publiques et du bien-être. Pour Franck Montaugé tout comme pour plusieurs autres parlementaires, il est urgent et « obligatoire » de placer le bien-être au cœur des préoccupations politiques. En proposant plusieurs projets législatifs en ce sens, le groupe dont Monsieur Montaugé fait partie espère changer le paradigme autour des évaluations de politiques publiques, qui semblent ne s’intéresser qu’aux finances, ou en tout cas en grande partie. 
 
-Ainsi, dans le cadre de futures évaluations de politiques publiques, il sera intéressant d’utiliser la quantification du bonheur et d’autres index que, par exemple, le classique PIB. Bien que cette initiative ait été entérinée par la loi visant à la prise en compte des nouveaux indicateurs de richesse dans la définition des politiques publiques de 2015, il est nécessaire
+Ainsi, dans le cadre de futures évaluations de politiques publiques, il sera intéressant d’utiliser la quantification du bonheur et d’autres index que, par exemple, le classique PIB. Bien que cette initiative ait été entérinée par la loi visant à la prise en compte des nouveaux indicateurs de richesse dans la définition des politiques publiques de 2015, il est nécessaire d'aller plus loin dans cette direction.
 
 ### Conclusion : le world happiness report : un début de réponse à la question “qu’est-ce que le bonheur ?” 
 
