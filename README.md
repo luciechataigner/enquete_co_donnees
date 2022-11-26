@@ -2,7 +2,52 @@
 
 # Enquête collective sur la quantification du bonheur et les index du bien-être (BNB)
 Enquête Collective - La Vie Sociale des données - Lucas Boutantin, Chloé Moynaton, Medina Djencic, Yann Guillo, Lucie Chataigner
-### Partie 4 : les usages des statistiques sur le bonheur
+
+### Introduction : La quantification du bonheur, un enjeu de taille 
+
+Exprimer une qualité ou un fait social, en le quantifiant, est essentiel afin de connaître, et plus généralement de gouverner et de coordonner. A partir du XIX siècle, elle fait naître l’idée de “société” et d’individus qui ne seraient pas déterminés: les statisticiens commencent alors à enregistrer les faits sociaux afin de **rendre la nation commensurable**. Gery André-Michel parle d’une “fièvre de la mesure”, en cherchant à tout prix à quantifier les différences au sein de la société afin de pouvoir la représenter. Ainsi, de nombreux indices et représentations graphiques permettent d’incarner la population, de son état économique aux statistiques morales.  
+
+Plus que la représentation statistique des individus, les sciences sociales se sont peu à peu penchées sur le bien-être des individus pour comprendre leur rapport à la société. 
+Le bonheur peut être défini comme un état émotionnel agréable, équilibré et durable dans lequel se trouve quelqu'un qui estime être parvenu à la satisfaction des aspirations et désirs qu'il juge importants. 
+
+> ### Plus que la représentation statistique des individus, les sciences sociales se sont peu à peu penchées sur le bien-être des individus pour comprendre leur rapport à la société.
+
+Mais comment mesurer un état émotionnel?  Plusieurs mesures ont été utilisés afin de quantifier le bonheur: d’une part, la mesure qualitative, qui consiste à prendre en compte des données économiques objectives et mesurables, tels le produit intérieur brut (PIB) par habitant et l'accès à des services conditionnant la qualité de vie (eau, énergie, éducation, information...), en considérant qu'un individu est heureux s’il est dans une bonne posture économique et a accès à des opportunités satisfaisantes. Pendant longtemps, un assez large consensus a prévalu pour faire du Produit Intérieur Brut (PIB) une mesure, ou une approximation, du bien-être d’une population. Quantifier, c’est choisir: ici, la croissance économique était considérée comme le plus sûr moyen d’assurer le bien-être des nations. Ensuite, la mesure déclarative procède par sondage: on demande aux sondés de quantifier sur une échelle allant de 1 à 10 leur ressenti, leurs émotions, en répondant à une série de questions personnelles.
+
+L’application de ces mesures nous interroge sur notre manière de définir et de quantifier le bien-être des individus: en d'autres termes, comment mesurer le niveau de bonheur d’un pays?  
+	A partir des années 70, la corrélation entre bonheur et PIB a subi de nombreuses attaques. R. Easterlin  (1974) a montré que cette corrélation semblait ne plus opérer pour des pays industrialisés, la croissance économique s’accompagnant d’une stagnation du niveau de satisfaction de la vie, ce qui a été appelé « paradoxe d’Easterlin ». Le rapport du club de Rome « Halte à la croissance » de 1972, sans faire référence au « bonheur », a mis l’accent sur les coûts cachés de la croissance, principalement en matière environnementale. De nouveaux indices apparaissent, tel que l’IDH, indice de développement humain, permettant de faire état d’un pays sans s’attarder sur sa richesse.
+Une autre tentative concrète de calcul du bonheur voit le jour au Bhoutan: en 1972, le roi impose à ses citoyens la poursuite du « bonheur national brut », reposant sur quatre piliers  : le développement économique responsable, la préservation de la culture nationale, la sauvegarde de l'environnement et la bonne gouvernance. La manœuvre, adroite et qualifiée de 'visionnaire', veut prouver que le bonheur n’est pas lié à un état de développement qui répond à des critères occidentaux et rigides. Au Bhoutan le BNB devient le nouveau PNB. 
+À l'échelle mondiale, un intérêt grandissant dans la quantification du bonheur, notamment déclenché par l'expérience du Bhoutan, pousse les institutions à s'y intéresser.  Le Réseau des solutions pour le développement durable  des Nations unies s’empare du sujet, et crée en 2012 le Rapport mondial sur le bonheur. Ce rapport, rédigé par trois économistes de renommée, John F. Helliwell , Richard Layard et Jeffrey Sachs, est publié chaque année et utilise des données d'enquêtes mondiales pour rapporter comment les gens évaluent leur propre vie dans plus de 150 pays à travers le monde. 
+
+### Partie 1 : L’exemple du BNB au Bhoutan, une tentative de mesure objective d’un bien-être national 
+
+Le BNB se mesure au travers de 4 différents paramètres. Il a été instauré car il semblait plus intéressant de mesurer un niveau de bonheur plutôt qu’un pur niveau économique. C’est pourquoi le BNB reprend le concept de PIB et de l’indice de développement humain (IDH) et que son calcul dépend de ces derniers mais il vise à aller plus loin. La question de la mise en place d'indicateurs fait intervenir le besoin de **catégoriser** les critères de mesures et de **convenir** de ces moyens. Le Bhoutan se base pour cela sur quatre piliers.
+
+En effet le Bonheur National Brut se calcule en tenant compte de la **croissance et du développement économique**, c’est-à-dire de la création de richesse dans le pays, de l’évolution du niveau de vie des habitants mais également de l’évolution de la production des biens des services. Les indicateurs utilisés vont du taux de croissances au niveau de vie en passant par le PIB et l’éducation.
+
+Le second critère de calcul du BNB est la **Conservation et promotion de la culture**, cette fois-ci, loin d’un aspect économique c’est un aspect patrimonial et culturel qui permet le calcul. Il est ici question de prendre en compte les différentes mesures et politiques choisies pour conserver et étendre le patrimoine culturel du pays. La préservation des traditions culturelles bhoutanaises étant le cœur de ce second pilier. Dans cette culture, les relations et le partage sont très importants, on essaie donc de mesurer les façons de vivre en communauté et le niveau d’interdépendance des individus ainsi que la vitalité des communautés.
+
+Vient ensuite le troisième pilier qui est la **protection de l’environnement**, il est important de souligner que la vision du Bhoutan est que les modes de vie des habitants doivent s’adapter à la nature afin de vivre en harmonie avec cette dernière et non pas de chercher à l’exploiter. C’est pourquoi le BNB mesure ici des critères tels que la part du territoire réservé aux forêts, la part de l’agriculture biologique (de 100%), le pourcentage de zones protégées…
+
+> ### Croissance et développement économique, conservation et promotion de la culture, protection de l'environnement et bonne gouvernance
+
+Enfin le dernier aspect repose sur le principe de **bonne gouvernance**, le pilier qui assure la solidité des trois premiers puisqu’il est ici question de la politique du pays. En effet, le pays met en avant le respect des droits de l’homme, le développement, la conservation des valeurs, la solidarité, la tolérance, la préservation… Tous les processus nécessaires pour le développement sain du pays. Ce pilier repose sur cinq critères : la transparence, la responsabilité, l’obligation de rendre compte des actes, la participation collective ainsi que la capacité de répondre aux besoins de la population.
+
+Ces quatre piliers reposent sur la mesure de 72 critères de mesures couvrant tous les grands aspects évoqués.
+
+### Partie 2 : Le World happiness report, un élargissement international au BNB
+
+L’idée d’appliquer une mesure du bonheur à l’échelle mondiale est arrivée en 2012 avec la publication du rapport mondial du bonheur. Mais cette mesure se différencie de celle du BNB appliqué au Bhoutan. En effet, le réseau de solutions pour le développement durable des Nations unies se base sur différents critères pour mesurer cet indice de bonheur. Pour ce faire, 6 critères sont retenus : 
+* le **PIB par habitant** qui est l’indicateur du niveau d’activité économique des habitants d’un pays
+* l’**aide sociale**, qui mesure le nombre de logements par habitant, l’aide au logement, les aides sociales, les allocations par habitant…
+* l’**espérance de vie** en bonne santé, qui ne représente pas l’espérance de vie classique mais la moyenne du nombre d'années que l’on peut vivre en étant en bonne santé dans les conditions médicales et sociales actuelles. Cette indicateur est probablement le plus difficile à évaluer car elle dépend des statistiques de données médicales.
+* la **liberté dans les choix de vie de l’individu**, qui se résume à la liberté des habitants d’un pays et aux opportunités de vie de chaque personne.
+* la **générosité perçue**, c'est à dire le niveau de générosité des habitants et de l’entraide mesurer aux travers de donations, d’associations, de bénévolat…
+* l’indice **de perception de la corruption**, mesurer entre 0 et 100 (100 étant un état incorruptible) par 13 enquêtes sur le secteur public d’un État. Il est ici mesuré “l’abus d’une fonction  publique à des fins d’enrichissement personnel” .
+
+Cette mesure est comparée à un indice mesuré par la méthode de l’**échelle de Cantril**. Cette échelle repose sur un questionnaire auprès d’un échantillon représentatif de la population, qui évalue leur situation personnelle, d’un point de vue social, professionnel, personnel abordant les aspects de l’éducation, de logement, de politique… Le rapport établit ensuite un lien entre les résultats de cette enquête et les statistiques des indicateurs listés précédemment.
+
+### Partie 3 : les usages des statistiques sur le bonheur
 #### I-	Comprendre les causes du bonheur et du bien-être chez les individus
 
 L’une des premières raisons pour lesquelles les indices et données numériques sur le bonheur ont été élaborés était de comprendre ce qui se cachait derrière le bien-être de l’humain : qu’est-ce qui nous heureux ? Quels paramètres influencent nos émotions et notre situation émotionnelle ? 
@@ -17,8 +62,7 @@ De l'utilisation des données chiffrées sur le bonheur comme le Bonheur Nationa
 
 Ces quatre principales conclusions et les plusieurs autres soulignées par les études sur le bonheur et les bases de données chiffrées (BNB, Gallup World Poll, World Risk Poll) servant à établir celle-ci peuvent aider les gouvernements et les législateurs à emmener leurs populations vers un plus grand bien-être. 
 
-#### II-	Appliquer ces données chiffrées et leurs significations à l’élaboration de politiques 
-#### 
+#### II-	Appliquer ces données chiffrées et leurs significations à l’élaboration de politiques  
 
 *A)	Le bonheur est-il un outil pertinent de policy-making ?*
 
@@ -53,6 +97,35 @@ La proposition de loi constitutionnelle a pour objectif de diversifier les indic
 Monsieur Montaugé a en effet été à l’origine d’un projet de loi visant à instituer un Conseil parlementaire d’évaluation des politiques publiques et du bien-être. Pour Franck Montaugé tout comme pour plusieurs autres parlementaires, il est urgent et « obligatoire » de placer le bien-être au cœur des préoccupations politiques. En proposant plusieurs projets législatifs en ce sens, le groupe dont Monsieur Montaugé fait partie espère changer le paradigme autour des évaluations de politiques publiques, qui semblent ne s’intéresser qu’aux finances, ou en tout cas en grande partie. 
 
 Ainsi, dans le cadre de futures évaluations de politiques publiques, il sera intéressant d’utiliser la quantification du bonheur et d’autres index que, par exemple, le classique PIB. Bien que cette initiative ait été entérinée par la loi visant à la prise en compte des nouveaux indicateurs de richesse dans la définition des politiques publiques de 2015, il est nécessaire d'aller plus loin dans cette direction.
+
+# Partie 4 : Quelles sont les limites ou les critiques rencontrées par ce jeu données ?
+ 
+#### I- Le Bonheur National Brut, un indicateur limité par son inadaptabilité, sa mise en œuvre concrète et sa viabilité dans le temps
+ 
+Le BNB est inspiré par une culture, un régime politique et religieux. Cette teinte bhoutanaise et asiatique, différentes des indicateurs occidentaux centrés (comme le PIB), expliquent en partie que son utilisation et sa propagation soient limitées. Les critiques de ce jeu de données sont multiples.
+ 
+Tout d’abord, le BNB est un indicateur permettant au pouvoir bhoutanais de se distancer en partie du PNB au vu des faibles ressources économiques du pays. En effet, une frange de la population est en situation d’extrême pauvreté (10% de la population vit sous le seuil de pauvreté) et plus de la moitié des foyers ne sont pas raccordés à un système d’électricité. En créant un système basé sur le « bonheur », impliquant de fait la spiritualité, la question matérielle paraît alors secondaire contrairement au PNB.
+ 
+L’utilisation du BNB, principalement incantatoire par le gouvernement (critique formée par le Premier Ministre T.Tobgay en 2013), permettait au Bhoutan de se faire une renommée internationale (et touristique) en devenant le **« pays du bonheur »**. La mise en œuvre concrète du BNB dans les politiques publiques semble limitée. T.Tobgay soulignait le manque d’agissements du gouvernement face à plusieurs défis causés par l’action des puissances limitrophes sur l’économie interne du Bouthan : la dévaluation monétaire, le chômage, la corruption et l’endettement. Renaud Gaucher, économiste et spécialiste de la science du bonheur, résume cette idée : « Au-delà de mesurer, ce qui compte, c’est de construire des politiques publiques ».
+ 
+La question du bien fondé des indicateurs proposés est à se poser. L’utilisation du critère de « bien-être psychologique » est imprégnée du bouddhisme et de la notion de spiritualité. Dans un entretien le Docteur Kharma Ura défend ce choix en affirmant que la « spiritualité ne présuppose pas une spiritualité liée à la religion ».  Pour autant, le site officiel du royaume du Bhoutan précise que le BNB **« devait permettre d’évaluer une économie basée sur les valeurs spirituelles du bouddhisme »**. Cette position n’est pas anodine au vu de la ségrégation ethnique perpétrée par la monarchie (avant la Constitution de 2008) contre les populations ethniques non-Bouddhiste (d’origine népalaise ou hindi).
+ 
+Ensuite, le BNB n’est pas un indicateur fiable sur le long terme. Claudia Senik, professeure à l’École d’économie de Paris, l’affirme : **« le Bonheur national brut ne peut pas remplacer le PIB sur le long terme »**. Elle remet en cause la stabilité des critères du « bonheur » qui peuvent varier d’une génération à une autre. Cela empêche l’utilisation de cet outil de manière durable car ses critères ne sont pas fixes.
+ 
+Enfin, **« mesurer le bonheur, ce n’est pas juste utiliser un indicateur, il faut prendre un ensemble de mesures pour avoir une image complète »** (R. Gaucher). De nombreux indicateurs ont été développés pour répondre aux enjeux d’inégalité, d’éducation, d’accès aux ressources (IDH, Indice du bonheur mondial…) et l’usage complémentaire de ces outils pourraient être la solution pour avoir une représentation plus juste du bonheur et des politiques à apporter pour le favoriser.
+ 
+#### II- Le World Happiness Report, un indicateur subjectif et non durable**
+ 
+Le World Happiness Report, outils créé en 2012 par les Nations Unies à la suite d’une suggestion du Bhoutan, nous permet de compléter notre analyse sur la mesure du « bonheur ». Malgré la légitimité méthodologique et institutionnelle supérieure des Nations Unies, le rapport essuie lui aussi des critiques.
+ 
+Tout d’abord, les chercheurs du World Happiness Report basent principalement leur analyse sur les sondages Gallup indicateur dont les résultats sont subjectifs. Il existe notamment une grande différence entre l’évaluation du bonheur et l’expérience réelle de ce dernier par l’individu. Par exemple, la Colombie est parvenue à la 37ème place du WHR de 2018 alors qu’elle était 1ère en expérience émotionnelle quotidienne dans l’index Gallup’s Positive Experience. Les variables utilisées permettent de définir des corrélations mais aucunement des effets de causalité. 
+Les autres index tels que celui du Développement Humain des Nations Unies, l’Indicateur du Vivre Mieux l’OCDE ou l’index du Progrès Social se basent sur plusieurs indicateurs moins subjectifs, favorisant leur viabilité.
+ 
+Les économistes Marquez-Padilla et Alvarez constatent dans leur article Grading happiness : what grading systems tell us about cross-country wellbeing comparisons que le bien-être et le bonheur peuvent être difficilement saisis dans une enquête. En effet, une multitude de facteurs peuvent affecter la note que les individus attribuent à leur vie. Dans leur étude, ils démontrent par exemple que le système scolaire de notation au niveau national influence la note finale que les individus vont se donner.
+ 
+De même, de nombreux indicateurs tels que le chômage et les inégalités socio-économiques sont absents du calcul alors même qu’ils sont cruciaux pour déterminer le bien-être d’une société. Le refus d’utiliser ces données est principalement dû au fait qu’elles ne soient pas comparables entre les États.
+ 
+Enfin, le World Happiness Report se base uniquement sur le bien-être présent et non sur sa soutenabilité. Dans le rapport des économistes Stiglitz, Sen et Fitoussi définissent que **« le premier dépend à la fois des ressources économiques comme les revenus et des caractéristiques non économiques de la vie des gens : ce qu’ils font et ce qu’ils peuvent faire, leur appréciation de leur vie, leur environnement naturel. La seconde dépend de la question de savoir si les stocks de capital qui importent pour notre vie (capital naturel, physique, humain, social) seront ou non transmis aux générations à venir »**[3]. Au vu des préoccupations écologiques grandissantes et des questionnements sociétaux émergeants (décroissance, égalité…), le World Happiness Report semble difficilement s’inclure dans une dynamique viable et durable.
 
 ### Conclusion : le world happiness report : un début de réponse à la question “qu’est-ce que le bonheur ?” 
 
