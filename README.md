@@ -86,11 +86,11 @@ Comme nous l’avons mentionné précédemment, les composants du BNB (et donc l
 
 Pour un argument plus concret, cela peut aussi questionner la manière dont on a conçu nos politiques (sociales ou économiques) jusqu’ici. Par exemple, si l’on utilise les statistiques sur le bonheur comme un outil politique, il ne semble plus pertinent de parler de la croissance économique comme un objectif pertinent des politiques économiques. Nous avons vu dans la première partie que de manière générale, les niveaux de bonheur moyens n’ont que très peu augmentés sur les 50 dernières années malgré une augmentation substantielles des revenus par capita. Ainsi, bien que la situation soit bien plus complexe que ça, il est nécessaire de remettre en question le modèle suivi par nos sociétés actuellement si l’on veut mettre en avant le bien-être des individus. 
 
-#### III-	L’usage politique de l’indice du BNB et des données chiffrées sur le bonheur en France (entretien avec le sénateur Franck Montaugé)
+#### III-	L’usage politique de l’indice du BNB et des données chiffrées sur le bonheur en France (entretien avec le collaborateur du sénateur Franck Montaugé)
 
 En France, certains membres du Parlement essaient aussi de placer le bien-être au centre des préoccupations politiques et législatives. C’est le cas de Franck Montaugé, sénateur, avec qui nous nous sommes entretenus.
 
-En effet, Monsieur Montaugé nous a notamment parlé de plusieurs projets de lois que lui et ses collègues du Sénat avaient soumis, dans le but de mettre le bonheur au cœur des décisions politiques futures. Il en a identifié trois : une proposition de loi constitutionnelle et deux propositions de loi organique et ordinaire. 
+En effet, le collaborateur de Monsieur Montaugé nous a notamment parlé de plusieurs projets de lois que lui et ses collègues du Sénat avaient soumis, dans le but de mettre le bonheur au cœur des décisions politiques futures. Il en a identifié trois : une proposition de loi constitutionnelle et deux propositions de loi organique et ordinaire. 
 
 La proposition de loi constitutionnelle a pour objectif de diversifier les indicateurs avec lesquels le Parlement évalue les politiques publiques. En effet, comme le décrit bien le projet : « Le temps où l’évaluation ne devait être que financière doit être dépassé. ». Monsieur Montaugé nous a ainsi expliqué que cette proposition s’inscrivait dans la lignée de deux autres projets législatifs, l’un pour une loi organique et l’autre pour une loi ordinaire. 
 
@@ -98,7 +98,7 @@ Monsieur Montaugé a en effet été à l’origine d’un projet de loi visant �
 
 Ainsi, dans le cadre de futures évaluations de politiques publiques, il sera intéressant d’utiliser la quantification du bonheur et d’autres index que, par exemple, le classique PIB. Bien que cette initiative ait été entérinée par la loi visant à la prise en compte des nouveaux indicateurs de richesse dans la définition des politiques publiques de 2015, il est nécessaire d'aller plus loin dans cette direction.
 
-# Partie 4 : Quelles sont les limites ou les critiques rencontrées par ce jeu données ?
+### Partie 4 : Quelles sont les limites ou les critiques rencontrées par ce jeu données ?
  
 #### I- Le Bonheur National Brut, un indicateur limité par son inadaptabilité, sa mise en œuvre concrète et sa viabilité dans le temps
  
