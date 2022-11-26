@@ -1,4 +1,6 @@
-
+---
+layout: default
+---
 
 # Enquête collective sur la quantification du bonheur et les index du bien-être (BNB)
 Enquête Collective - La Vie Sociale des données - Lucas Boutantin, Chloé Moynaton, Medina Djencic, Yann Guillo, Lucie Chataigner
