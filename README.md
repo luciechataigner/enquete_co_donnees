@@ -2,6 +2,20 @@
 # Enquête collective sur la quantification du bonheur et les index du bien-être (BNB)
 Enquête Collective - La Vie Sociale des données - Lucas Boutantin, Chloé Moynaton, Medina Djencic, Yann Guillo, Lucie Chataigner
 
+### Table of contents 
+
+[Introduction](https://github.com/luciechataigner/enquete_co_donnees/blob/main/README.md#introduction--la-quantification-du-bonheur-un-enjeu-de-taille)
+
+[Partie 1 : L’exemple du BNB au Bhoutan, une tentative de mesure objective d’un bien-être national](https://github.com/luciechataigner/enquete_co_donnees/edit/main/README.md#partie-1--lexemple-du-bnb-au-bhoutan-une-tentative-de-mesure-objective-dun-bien-%C3%AAtre-national)
+
+[Partie 2 : Le World happiness report, un élargissement international au BNB](https://github.com/luciechataigner/enquete_co_donnees/edit/main/README.md#partie-2--le-world-happiness-report-un-%C3%A9largissement-international-au-bnb)
+
+[Partie 3 : Les usages des statistiques sur le bonheur](https://github.com/luciechataigner/enquete_co_donnees/edit/main/README.md#partie-3--les-usages-des-statistiques-sur-le-bonheur)
+
+[Partie 4 : Les limites ou critiques rencontrées par ce jeu de données](https://github.com/luciechataigner/enquete_co_donnees/edit/main/README.md#partie-4--quelles-sont-les-limites-ou-les-critiques-rencontr%C3%A9es-par-ce-jeu-donn%C3%A9es-)
+
+[Conclusion](https://github.com/luciechataigner/enquete_co_donnees/edit/main/README.md#conclusion--le-world-happiness-report--un-d%C3%A9but-de-r%C3%A9ponse-%C3%A0-la-question-quest-ce-que-le-bonheur-)
+
 ### Introduction : La quantification du bonheur, un enjeu de taille 
 
 Exprimer une qualité ou un fait social, en le quantifiant, est essentiel afin de connaître, et plus généralement de gouverner et de coordonner. A partir du XIX siècle, elle fait naître l’idée de “société” et d’individus qui ne seraient pas déterminés: les statisticiens commencent alors à enregistrer les faits sociaux afin de **rendre la nation commensurable**. Gery André-Michel parle d’une “fièvre de la mesure”, en cherchant à tout prix à quantifier les différences au sein de la société afin de pouvoir la représenter. Ainsi, de nombreux indices et représentations graphiques permettent d’incarner la population, de son état économique aux statistiques morales.  
@@ -51,7 +65,7 @@ Cette mesure est comparée à un indice mesuré par la méthode de l’**échell
 
 Pour cette partie, nous avons échangé par mails avec l'une des éditrices du World Happiness Report, Professeur Lara Aknin, psychologue sociologue. Nous avons aussi interrogé lors d'un entretien téléphonique le collaborateur du sénateur Franck Montaugé, Aurélien Chevallier. Ces échanges nous ont permis de mieux comprendre les usages des données chiffrées sur le bonheur et du BNB, notamment dans le cadre du policy-making. 
 
-Le lien vers la transcription de notre entretien avec Aurélien Chevallier, [ici] (https://docs.google.com/document/d/1Fxx9j-rw5oeybbUAvrptLmGi1SLXj5hjomP38WEejA8/edit?usp=sharing).
+Le lien vers la transcription de notre entretien avec Aurélien Chevallier, [ici](https://docs.google.com/document/d/1Fxx9j-rw5oeybbUAvrptLmGi1SLXj5hjomP38WEejA8/edit?usp=sharing).
 
 L’une des premières raisons pour lesquelles les indices et données numériques sur le bonheur ont été élaborés était de comprendre ce qui se cachait derrière le bien-être de l’humain : qu’est-ce qui nous heureux ? Quels paramètres influencent nos émotions et notre situation émotionnelle ? 
 
