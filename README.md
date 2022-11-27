@@ -154,3 +154,8 @@ En termes d’indice mondial du bonheur, l’Afghanistan se trouve bon dernier c
 La dichotomie pays du Nord/ pays du Sud est comme pour de nombreux autres indices, très visibles, avec les pays du Nord qui sont globalement bien classés et les pays du Sud en bas de l’échelle. Ce qui nous pousse une nouvelle fois à faire un lien entre développement socio-économique et satisfaction globale d’une population. Pour nuancer cette division somme toute manichéenne, nous observons tout de même un assez bon classement des pays d’Amérique latine (mise à part le Venezuela) avec l’Uruguay en 30e, le Brésil en 38e et le Chili en 44e. Peut-être que le bonheur est alors plus complexe à quantifier et qu’il serait le produit de l’éducation, de la culture et de la manière de donner un sens à sa vie.
 
 Il convient enfin de nous demander si les réponses sont formées différemment par la désirabilité. Dans les pays où le bonheur obtient un score élevé, les gens seraient potentiellement enclins à surestimer leur contentement de la vie. En outre, il faut observer si les rapports de bonheur diffèrent des affects éprouvés au cours des dernières semaines puisque les premiers sont plus susceptibles d'être influencés par le contexte social.
+
+
+Bibliographie : 
+
+
