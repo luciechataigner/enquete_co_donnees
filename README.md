@@ -158,4 +158,40 @@ Il convient enfin de nous demander si les réponses sont formées différemment 
 
 Bibliographie : 
 
+Allegrezza, Théo. « Le Bonheur national brut peut-il remplacer le PIB ? » Libération, https://www.liberation.fr/evenements-libe/2013/04/06/le-bonheur-national-brut-peut-il-remplacer-le-pib_894192/. Consulté le 21 novembre 2022.
+
+Bernard Lebleu, Le bonheur (national brut) des nations, L'Agora, vol. 10 no 2, automne 2003
+
+Bok Derek Curtis. The Politics of Happiness : What Government Can Learn from the New Research on Well-Being. Princeton University Press, 2010
+
+« Classement des États du monde par indice de bonheur ». Atlasocio.com, https://atlasocio.com/classements/societe/bonheur/classement-etats-par-indice-de-bonheur-monde.php. 
+
+Di Tella, Rafael, and Robert MacCulloch. “Some Uses of Happiness Data in Economics.” The Journal of Economic Perspectives, vol. 20, no. 1, 2006, pp. 25–46, https://doi.org/10.1257/089533006776526111.
+
+Grelley, Pierre. « Contrepoint – Bonheur national brut ». Informations sociales, vol. 182, no 2, 2014, p. 141‑141. Cairn.info, https://doi.org/10.3917/inso.182.0141.
+Helliwell, John F., et al. “The Geography of World Happiness” World Happiness Report, 2015, pp. 12-41. 
+
+Marquez-Padilla, Fernanda, et Jorge Alvarez. « Grading Happiness: What Grading Systems Tell Us about Cross-Country Wellbeing Comparisons ». Economics Bulletin, vol. 38, no 2, 2018, p. 1138‑55.
+
+Martinache, Igor. « Peut-on mesurer le bien-être (et comment) ? Synthèse élaborée à partir de la conférence « Comment mesurer le bien-être ? » qui s'est déroulée le 10 novembre 2011 à Lyon, lors des Journées de l'économie. », Idées économiques et sociales, vol. 168, no. 2, 2012, pp. 6-13.
+
+Michel Renault. Indicateurs du bonheur. Michèle GALLY. Le bonheur. Dictionnaire historique et critique, CNRS EDITIONS, pp.477-480, 2019.
+
+Niestroy, Ingeborg; García Schmidt, Armando; Esche, Andreas, "Bhutan: Paradigms Matter", in: Bertelsmann Stiftung (ed.): Winning Strategies for a Sustainable Future. Reinhard Mohn Prize 2013., Verlag Bertelsmann Stiftung, Gütersloh, 2013 (ISBN 978-3-86793-491-6, lire en ligne [archive]), p. 55-80..
+
+Lebaron, Frédéric. « Vers une économie du bonheur ? », Savoir/Agir, vol. 9, no. 3, 2009, pp. 133-137.
+
+« Le bonheur dans le monde », Les Grands Dossiers des Sciences Humaines, vol. 35, no. 6, 2014, pp. 5-5.
+
+Renaud Gaucher, Bonheur et économie. Le capitalisme est-il soluble dans la recherche du bonheur ?, L'Harmattan, collection L'esprit économique, 2009.
+
+Stiglitz, Professeur Joseph E. Rapport de la commission sur la mesure des performances économiques et du progrès social. p. 324.
+
+Ura, Karma, et al. “Case Study : Bhutan - Gross National Happiness and the GNH Index” World Happiness Report, 2012, pp.109-145.
+
+Uuk, Risto. Critical Assessment of the World Happiness Report’s Public Conception of Well-Being. p. 7.
+
+Whitaker, Celina. « Que nous apprend le “bonheur national brut” ? » Revue Projet, vol. 362, no 1, 2018, p. 26‑30. Cairn.info, https://doi.org/10.3917/pro.362.0026.
+
+Zeidan, Jinan. « Les différentes mesures du bien-être subjectif », Revue française d'économie, vol. xxvii, no. 3, 2012, pp. 35-70.
 
