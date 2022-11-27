@@ -51,6 +51,8 @@ Cette mesure est comparée à un indice mesuré par la méthode de l’**échell
 
 Pour cette partie, nous avons échangé par mails avec l'une des éditrices du World Happiness Report, Professeur Lara Aknin, psychologue sociologue. Nous avons aussi interrogé lors d'un entretien téléphonique le collaborateur du sénateur Franck Montaugé, Aurélien Chevallier. Ces échanges nous ont permis de mieux comprendre les usages des données chiffrées sur le bonheur et du BNB, notamment dans le cadre du policy-making. 
 
+Le lien vers la transcription de notre entretien avec Aurélien Chevallier : 
+
 L’une des premières raisons pour lesquelles les indices et données numériques sur le bonheur ont été élaborés était de comprendre ce qui se cachait derrière le bien-être de l’humain : qu’est-ce qui nous heureux ? Quels paramètres influencent nos émotions et notre situation émotionnelle ? 
 
 Comme nous l’a indiqué Pr. Lara Aknin, le « World Happiness Report » souligne ainsi que certains de ses objectifs sont « d’en apprendre plus sur les causes du bonheur chez l’Homme », d’établir des liens entre les évènements d’actualité et le niveau de bien-être des populations et de réaliser une étude globale des comportements de la population mondiale. 
